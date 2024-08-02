@@ -27,6 +27,9 @@
 - Medium: 1
 - Low: 0
 
+### Selected for Cyfrin final report:
+- [H-01. Reentrancy attack in `ThePredicter::cancelRegistration`](#H-01)
+
 
 # High Risk Findings
 
