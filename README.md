@@ -1,5 +1,7 @@
-# Compiled audits on EVM
+# Compiled audits 
 
-### Q3 2024
+## My Audit Findings
 
-1. [The Predicter](first-flights/The-Predicter.md)
+| MM/YYYY | Platform | Protocol | Report | Details | Payout |
+| --- | --- | --- | --- | --- | --- |
+| 08/2024 | CodeHawks | [Fjord](https://codehawks.cyfrin.io/c/2024-08-fjord) | [Report](solo/Fjord-Token-Staking.md) | M-1 | $0.20 |
